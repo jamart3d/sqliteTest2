@@ -1,23 +1,3 @@
-# myapp
-
-A simple Flutter sqflite app working in google idx.
-
-## Getting Started
-
-the code is copied from somewhere , i forget, but needed some updateing to work properly.
-Only for andriod emulator.
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 <a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fjamart3d%2FsqliteTest2">
   <picture>
     <source
@@ -32,3 +12,24 @@ samples, guidance on mobile development, and a full API reference.
       src="https://cdn.idx.dev/btn/open_purple_32.svg">
   </picture>
 </a>
+
+# myapp
+
+A simple Flutter sqflite app working in google idx.
+the code is copied from somewhere , i forget, but needed some updateing to work properly.
+Only for andriod emulator.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+
