@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_lorem/flutter_lorem.dart';
 import 'package:myapp/utils/sql_helper.dart';
+import 'package:sqflite/sqflite.dart';
 import 'main.dart';
 import 'shopping_list.dart';
 
@@ -117,5 +118,12 @@ class _HomeState extends State<Home> {
 
   createNewShoppingList(String title) {
     shoppingProvider?.insertShoppingList(ShoppingListHelper(title: title));
+    print("hello");
+    printDBPath();
+  }
+
+  Future printDBPath() async {
+    final databasePath = await getDatabasesPath();
+    print(databasePath);
   }
 }
