@@ -15,9 +15,9 @@
 
 # myapp
 
-A simple Flutter sqflite app working in google idx.
-the code is copied from somewhere, i forget,<BR>
-but needed some updateing to work properly.
+A simple Flutter sqflite app working in google idx.<BR>
+copied from https://github.com/Mobterest-Studio/flutter_sqlite<BR>
+and tweaked a bit.<BR>
 Only for andriod emulator.
 
 ## Getting Started
